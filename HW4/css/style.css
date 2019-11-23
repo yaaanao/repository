@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    color: gold;
+    
+}
+.image {
+    width: 225px;
+    height: 225px;
+    border: 2px solid gold;
+    margin: auto;
+}
+.text {
+    margin-top: 50px;
+    border: 100px solid orange;
+    background-color: orange;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+}
